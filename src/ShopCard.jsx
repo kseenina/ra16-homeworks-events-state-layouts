@@ -1,3 +1,3 @@
-export default function ShopCard() {
+export default function ShopCard({product}) {
     
 }
